@@ -17,7 +17,9 @@ Projede, aşağıdaki geliştirmeler ve yenilikler yapılmıştır:
 - CodeIgniter (v4.x)
 - MySQL
 - MongoDB
-- Composer (PHP bağımlılık yönetimi için ) 
+- Composer (PHP bağımlılık yönetimi için )
+
+
 Eyüp Han Çiçek 2313201051
 Duygu Beyza Esği 2313201034
 Yusuf Gül 2313201031
